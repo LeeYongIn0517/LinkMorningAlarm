@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "LinkMorningAlarm"
 include(":app")
+include(":data")
